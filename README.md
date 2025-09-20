@@ -54,7 +54,7 @@ JavaScriptを用いて、動的な予約カレンダーを実装しました。�
 ## 👨‍💻 開発者
 
   * **D-matsu-portfolio** - UI/UX設計、フロントエンド・バックエンド開発
-      * GitHub: [https://github.com/D-matsu-portfolio](https://www.google.com/search?q=https://github.com/D-matsu-portfolio)
+      * GitHub: [https://github.com/D-matsu-portfolio](https://github.com/D-matsu-portfolio)
 
 -----
 
