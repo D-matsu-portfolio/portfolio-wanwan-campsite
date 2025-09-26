@@ -9,7 +9,7 @@ export default async function handler(req, res) {
 
   // Vercelの環境変数から安全にAPIキーを読み込む
   const apiKey = process.env.GEMINI_API_KEY;
-  const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
+  const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
 
   try {
     // Gemini APIへリクエストを転送
